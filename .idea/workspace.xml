@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="667a680d-3528-4b42-9c90-67ed0e8d5175" name="Default Changelist" comment="Modify keys in a Object">
-      <change beforePath="$PROJECT_DIR$/arrays/modifingKeys.js" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/modifingKeys.js" afterDir="false" />
+    <list default="true" id="667a680d-3528-4b42-9c90-67ed0e8d5175" name="Default Changelist" comment="Reverse string">
+      <change afterPath="$PROJECT_DIR$/strings/reverseString.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601786107393</updated>
-      <workItem from="1601786108404" duration="4647000" />
+      <workItem from="1601786108404" duration="6275000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1601786522559</created>
@@ -67,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601793204272</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Modify keys in a Object">
+      <created>1601834077085</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601834077085</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,13 +84,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add README.md" />
     <MESSAGE value="Modify keys in a Object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify keys in a Object" />
+    <MESSAGE value="Reverse string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse string" />
   </component>
   <component name="WindowStateProjectService">
     <state x="849" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601786278292">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="849" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601786278292" />
+    <state x="681" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601834096435">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="681" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1601834096435" />
     <state x="1301" y="439" key="Github.ShareDialog" timestamp="1601786355450">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -107,9 +120,13 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="956" height="286" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601786284984" />
-    <state x="1030" y="275" key="Vcs.Push.Dialog.v2" timestamp="1601793205764">
+    <state x="1030" y="275" key="Vcs.Push.Dialog.v2" timestamp="1601834081954">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1030" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1601793205764" />
+    <state x="1030" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1601834081954" />
+    <state x="624" y="247" key="run.anything.popup" timestamp="1601834833133">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="247" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601834833133" />
   </component>
 </project>
