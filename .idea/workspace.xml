@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="667a680d-3528-4b42-9c90-67ed0e8d5175" name="Default Changelist" comment="" />
+    <list default="true" id="667a680d-3528-4b42-9c90-67ed0e8d5175" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iOkcqeLbFBBoI9OK6wW0O1gLgZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.12.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.11.2" />
@@ -34,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601786107393</updated>
-      <workItem from="1601786108404" duration="228000" />
+      <workItem from="1601786108404" duration="399000" />
     </task>
     <servers />
   </component>
@@ -46,6 +58,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="849" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601786278292" />
+    <state x="1301" y="439" key="Github.ShareDialog" timestamp="1601786355450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1301" y="439" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601786355450" />
+    <state x="1245" y="226" key="Github.UntrackedFilesDialog" timestamp="1601786400891">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1245" y="226" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601786400891" />
     <state width="956" height="286" key="GridCell.Tab.0.bottom" timestamp="1601786284985">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
