@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="667a680d-3528-4b42-9c90-67ed0e8d5175" name="Default Changelist" comment="Reverse string">
-      <change afterPath="$PROJECT_DIR$/strings/reverseString.js" afterDir="false" />
+    <list default="true" id="667a680d-3528-4b42-9c90-67ed0e8d5175" name="Default Changelist" comment="Reverse string, complexity O(n)&#10;&#10;Real complexity O(n/2)">
+      <change afterPath="$PROJECT_DIR$/arrays/moveZeroes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +63,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601786107393</updated>
-      <workItem from="1601786108404" duration="6275000" />
+      <workItem from="1601786108404" duration="7759000" />
+      <workItem from="1601847207960" duration="81000" />
+      <workItem from="1601861448161" duration="740000" />
+      <workItem from="1601872561494" duration="3831000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1601786522559</created>
@@ -75,17 +96,36 @@
       <option name="project" value="LOCAL" />
       <updated>1601834077085</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Reverse string, complexity O(n)&#10;&#10;Real complexity O(n/2)">
+      <created>1601835750119</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601835750119</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add README.md" />
     <MESSAGE value="Modify keys in a Object" />
     <MESSAGE value="Reverse string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverse string" />
+    <MESSAGE value="Reverse string, complexity O(n)&#10;&#10;Real complexity O(n/2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse string, complexity O(n)&#10;&#10;Real complexity O(n/2)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="849" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601786278292">
@@ -120,10 +160,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="956" height="286" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601786284984" />
-    <state x="1030" y="275" key="Vcs.Push.Dialog.v2" timestamp="1601834081954">
+    <state x="1030" y="275" key="Vcs.Push.Dialog.v2" timestamp="1601835752743">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1030" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1601834081954" />
+    <state x="1030" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1601835752743" />
     <state x="624" y="247" key="run.anything.popup" timestamp="1601834833133">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
