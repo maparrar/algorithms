@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="667a680d-3528-4b42-9c90-67ed0e8d5175" name="Default Changelist" comment="Create moving zeroes function">
-      <change afterPath="$PROJECT_DIR$/arrays/containsDuplecated.js" afterDir="false" />
+    <list default="true" id="667a680d-3528-4b42-9c90-67ed0e8d5175" name="Default Changelist" comment="Tested function">
+      <change afterPath="$PROJECT_DIR$/arrays/rotateArray.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,8 @@
       <workItem from="1601847207960" duration="81000" />
       <workItem from="1601861448161" duration="740000" />
       <workItem from="1601872561494" duration="8288000" />
-      <workItem from="1601930344928" duration="2773000" />
+      <workItem from="1601930344928" duration="2810000" />
+      <workItem from="1602438818835" duration="836000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1601786522559</created>
@@ -111,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601877193595</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Tested function">
+      <created>1602046285335</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602046285335</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,17 +143,18 @@
     <MESSAGE value="Reverse string" />
     <MESSAGE value="Reverse string, complexity O(n)&#10;&#10;Real complexity O(n/2)" />
     <MESSAGE value="Create moving zeroes function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create moving zeroes function" />
+    <MESSAGE value="Tested function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tested function" />
   </component>
   <component name="WindowStateProjectService">
     <state x="849" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601786278292">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="849" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601786278292" />
-    <state x="681" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601834096435">
+    <state x="681" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602438855553">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="681" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1601834096435" />
+    <state x="681" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1602438855553" />
     <state x="1301" y="439" key="Github.ShareDialog" timestamp="1601786355450">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -170,10 +179,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="956" height="286" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601786284984" />
-    <state x="1030" y="275" key="Vcs.Push.Dialog.v2" timestamp="1601877196656">
+    <state x="1030" y="275" key="Vcs.Push.Dialog.v2" timestamp="1602046288647">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1030" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1601877196656" />
+    <state x="1030" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1602046288647" />
     <state x="624" y="247" key="run.anything.popup" timestamp="1601834833133">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
