@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="667a680d-3528-4b42-9c90-67ed0e8d5175" name="Default Changelist" comment="Tested function">
-      <change afterPath="$PROJECT_DIR$/arrays/rotateArray.js" afterDir="false" />
+    <list default="true" id="667a680d-3528-4b42-9c90-67ed0e8d5175" name="Default Changelist" comment="Create array of Integers generator function O(n)">
+      <change afterPath="$PROJECT_DIR$/arrays/arrayGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/text.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +69,10 @@
       <workItem from="1601861448161" duration="740000" />
       <workItem from="1601872561494" duration="8288000" />
       <workItem from="1601930344928" duration="2810000" />
-      <workItem from="1602438818835" duration="836000" />
+      <workItem from="1602438818835" duration="1866000" />
+      <workItem from="1602642188632" duration="1707000" />
+      <workItem from="1602950940788" duration="3464000" />
+      <workItem from="1603002435024" duration="82000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1601786522559</created>
@@ -119,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602046285335</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Rotate array: one line solution">
+      <created>1602440408382</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602440408382</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +155,9 @@
     <MESSAGE value="Reverse string, complexity O(n)&#10;&#10;Real complexity O(n/2)" />
     <MESSAGE value="Create moving zeroes function" />
     <MESSAGE value="Tested function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tested function" />
+    <MESSAGE value="Rotate array: one line solution" />
+    <MESSAGE value="Create array of Integers generator function O(n)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create array of Integers generator function O(n)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="849" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601786278292">
@@ -179,13 +192,17 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="956" height="286" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601786284984" />
-    <state x="1030" y="275" key="Vcs.Push.Dialog.v2" timestamp="1602046288647">
+    <state x="1030" y="275" key="Vcs.Push.Dialog.v2" timestamp="1602440411427">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1030" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1602046288647" />
+    <state x="1030" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1602440411427" />
     <state x="624" y="247" key="run.anything.popup" timestamp="1601834833133">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="624" y="247" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601834833133" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1602952346717">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602952346717" />
   </component>
 </project>
