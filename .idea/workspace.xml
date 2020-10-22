@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="667a680d-3528-4b42-9c90-67ed0e8d5175" name="Default Changelist" comment="Create array of Integers generator function O(n)">
-      <change afterPath="$PROJECT_DIR$/arrays/arrayGenerator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/spread.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,8 @@
       <workItem from="1602438818835" duration="1866000" />
       <workItem from="1602642188632" duration="1707000" />
       <workItem from="1602950940788" duration="3464000" />
-      <workItem from="1603002435024" duration="82000" />
+      <workItem from="1603002435024" duration="149000" />
+      <workItem from="1603387953931" duration="425000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1601786522559</created>
@@ -130,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602440408382</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Create array of Integers generator function O(n)">
+      <created>1603002545484</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603002545484</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,10 +199,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="956" height="286" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601786284984" />
-    <state x="1030" y="275" key="Vcs.Push.Dialog.v2" timestamp="1602440411427">
+    <state x="1030" y="275" key="Vcs.Push.Dialog.v2" timestamp="1603002547044">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1030" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1602440411427" />
+    <state x="1030" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1603002547044" />
     <state x="624" y="247" key="run.anything.popup" timestamp="1601834833133">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
