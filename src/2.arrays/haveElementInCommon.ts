@@ -1,10 +1,10 @@
 
 // O(n)
-function checkCommon(array1, array2) {
+export function checkCommon(array1: string[], array2: string[]): boolean {
   let a = array1
   let b = array2
-  let existingInA = new Array(200)
-  let existingInB = new Array(200)
+  const existingInA: string[] = new Array(200)
+  const existingInB: string[] = new Array(200)
 
   if(array1.length < array2.length){
     a = array2
@@ -29,9 +29,3 @@ function checkCommon(array1, array2) {
   }
   return false
 }
-
-console.log(checkCommon(['a', 'b', 'c', 'x'], ['z', 'y', 'i']))
-console.log(checkCommon(['a', 'b', 'c', 'x'], ['z', 'y', 'x']))
-console.log(checkCommon(['a', 'd', 'c', 'x'], ['z', 'y', 'l']))
-console.log(checkCommon(['a'], []))
-console.log(checkCommon([1], [2, 3]))
