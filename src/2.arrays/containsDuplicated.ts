@@ -1,7 +1,30 @@
-// Source: https://leetcode.com/problems/contains-duplicate/description/
+/*
+Source: https://leetcode.com/problems/contains-duplicate/description/
 
-export const containsDuplicate = function(nums: number[]): boolean {
-  const duplicated = {}
+  Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
+
+  Example 1:
+
+  Input: nums = [1,2,3,1]
+  Output: true
+  Example 2:
+
+  Input: nums = [1,2,3,4]
+  Output: false
+  Example 3:
+
+  Input: nums = [1,1,1,3,3,4,3,2,4,2]
+  Output: true
+  
+  Constraints:
+
+  1 <= nums.length <= 105
+  -109 <= nums[i] <= 109
+*/
+
+// O(n)
+export const containsDuplicate = (nums: number[]): boolean => {
+  const duplicated: boolean[] = []
   for(let i = 0; i < nums.length; i++) {
     if(duplicated[nums[i]]) {
       return true
@@ -11,3 +34,17 @@ export const containsDuplicate = function(nums: number[]): boolean {
   }
   return false
 }
+
+export const containsDuplicateHash = (nums: number[]): boolean => {
+  const hashTable = new Map()
+  for (const num of nums) {
+    if (hashTable.has(num)) {
+      return true
+    }
+    hashTable.set(num, true)
+  }
+  return false
+}
+
+export const containsDuplicateSet = (nums: number[]): boolean =>
+  new Set(nums).size !== nums.length
