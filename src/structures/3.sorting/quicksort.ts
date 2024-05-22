@@ -1,4 +1,4 @@
-import { randomIntBetween } from '../tools/utils'
+import { randomIntBetween } from '../../tools/utils'
 
 export const quicksort = (numbers: number[]): number[] => {
   const pivotIndex = randomIntBetween(0, numbers.length - 1)

@@ -1,4 +1,4 @@
-import { measure } from '../tools/performance'
+import { measure } from '../../tools/performance'
 import { haveCommonElements, haveCommonElementsSet } from './haveElementInCommon'
 
 

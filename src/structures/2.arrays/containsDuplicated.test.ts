@@ -1,4 +1,4 @@
-import { measure } from '../tools/performance'
+import { measure } from '../../tools/performance'
 import { containsDuplicate, containsDuplicateHash, containsDuplicateSet } from './containsDuplicated'
 
 const elementCount = 100000

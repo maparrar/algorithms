@@ -1,4 +1,5 @@
-import { measure } from '../tools/performance'
+
+import { measure } from '../../tools/performance'
 import { quicksort, quicksortPivot0, quicksortRefactored } from './quicksort'
 
 const elementCount = 1000
