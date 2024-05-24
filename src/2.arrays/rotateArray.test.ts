@@ -1,4 +1,4 @@
-import { measure } from '../../tools/performance'
+import { measure } from '../tools/performance'
 import { rotateArray } from './rotateArray'
 
 const elementCount = 100000

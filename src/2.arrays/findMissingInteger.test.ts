@@ -1,4 +1,4 @@
-import { measure } from '../../tools/performance'
+import { measure } from '../tools/performance'
 import { findMissingInteger, findMissingIntegerRefactored } from './findMissingInteger'
 
 const elementCount = 1000

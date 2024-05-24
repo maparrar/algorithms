@@ -1,3 +1,5 @@
+// This is a version of Pidgeon Sort
+
 
 export const slotsort = (numbers: number[]): number[] => {
   const slots: number[] = []

@@ -1,4 +1,4 @@
-import { measure } from '../../tools/performance'
+import { measure } from '../tools/performance'
 import { slotsort } from './slotsort'
 
 const elementCount = 10000
