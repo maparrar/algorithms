@@ -1,3 +1,4 @@
+// Time: O(2^n) Space: O(n) 
 export const fibonacciRecursive = (n: number): number => {
   if (n <= 2 ) {
     return 1
@@ -6,12 +7,14 @@ export const fibonacciRecursive = (n: number): number => {
   }
 }
 
+// Time: O(1) Space: O(1). Warining: it is an approximation 
 export const fibonacciFormula = (n: number): number => {
   const sqrt5 = Math.sqrt(5)
   const phi = (1 + sqrt5) / 2
   return Math.round((Math.pow(phi, n) - Math.pow((Math.pow(-phi, -1)), n)) / sqrt5)
 }
 
+// Time: O(n) Space: O(n)
 export const fibonacciDynamicRecursive = (): (n: number) => number => {
   const cached: number[] = []
 
