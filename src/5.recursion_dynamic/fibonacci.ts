@@ -30,6 +30,7 @@ export const fibonacciDynamicRecursive = (): (n: number) => number => {
   }
 }
 
+// Time: O(n) Space: O(n)
 export const fibonacciDynamic = (): (n: number) => number => {
   const cached: number[] = [0, 1]
 
